@@ -271,7 +271,7 @@ bc1q89ju02heg32yrqdrnqghe6132wek25p6sv6e564znvrvez7tq5zqt4dn02
 ----
 ==== Constructing the funding transaction
 
-Alice's node can now construct a funding transaction, sending the amount agreed with Bob (funding_satoshis) to the 2-of-2 multisig address. Let's assume that funding_satoshis was 140,000 and Alice is spending a 200,000 satoshi output and creating 60,000 satoshi change. The transaction will look something like this:
+Alice's node can now construct a funding transaction, sending the amount agreed with Bob (funding_satoshis) to the 2-of-2 multisig address. Let's assume that funding_satoshis was 200,000 and Alice is spending a 140,000 satoshi output and creating 60,000 satoshi change. The transaction will look something like this:
 
 [[A_B_funding_Tx]]
 .Alice constructs the funding transaction
